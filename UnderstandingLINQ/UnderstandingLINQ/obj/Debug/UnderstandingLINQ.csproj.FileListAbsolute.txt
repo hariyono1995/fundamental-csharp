@@ -1,0 +1,8 @@
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.AssemblyReference.cache
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.SuggestedBindingRedirects.cache
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.exe
+D:\Hariyono\basic_c#\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.pdb

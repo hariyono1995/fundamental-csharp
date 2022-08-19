@@ -1,0 +1,8 @@
+D:\Hariyono\basic_c#\TimerExample\TimerExample\bin\Debug\TimerExample.exe.config
+D:\Hariyono\basic_c#\TimerExample\TimerExample\bin\Debug\TimerExample.exe
+D:\Hariyono\basic_c#\TimerExample\TimerExample\bin\Debug\TimerExample.pdb
+D:\Hariyono\basic_c#\TimerExample\TimerExample\obj\Debug\TimerExample.csproj.AssemblyReference.cache
+D:\Hariyono\basic_c#\TimerExample\TimerExample\obj\Debug\TimerExample.csproj.SuggestedBindingRedirects.cache
+D:\Hariyono\basic_c#\TimerExample\TimerExample\obj\Debug\TimerExample.csproj.CoreCompileInputs.cache
+D:\Hariyono\basic_c#\TimerExample\TimerExample\obj\Debug\TimerExample.exe
+D:\Hariyono\basic_c#\TimerExample\TimerExample\obj\Debug\TimerExample.pdb

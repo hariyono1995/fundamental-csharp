@@ -1,0 +1,8 @@
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csproj.AssemblyReference.cache
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csproj.SuggestedBindingRedirects.cache
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+D:\Hariyono\basic_c#\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb

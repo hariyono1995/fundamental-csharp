@@ -1,0 +1,8 @@
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.AssemblyReference.cache
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.SuggestedBindingRedirects.cache
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+D:\Hariyono\basic_c#\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb

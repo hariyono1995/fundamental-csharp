@@ -1,0 +1,8 @@
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\bin\Debug\Fundamental2.exe.config
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\bin\Debug\Fundamental2.exe
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\bin\Debug\Fundamental2.pdb
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\obj\Debug\Fundamental2.csproj.AssemblyReference.cache
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\obj\Debug\Fundamental2.csproj.SuggestedBindingRedirects.cache
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\obj\Debug\Fundamental2.csproj.CoreCompileInputs.cache
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\obj\Debug\Fundamental2.exe
+D:\Hariyono\basic_c#\Fundamental2\Fundamental2\obj\Debug\Fundamental2.pdb
